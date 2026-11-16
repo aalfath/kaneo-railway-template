@@ -1,5 +1,7 @@
 # Kaneo on Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/kaneo-2?utm_medium=integration&utm_source=button&utm_campaign=kaneo)
+
 This repo is the source of the Kaneo template on Railway. It deploys [Kaneo](https://github.com/usekaneo/kaneo), an open-source project management tool with boards, lists and tasks, as one service built from this repo's `Dockerfile`, plus a Railway PostgreSQL database.
 
 - **Version:** Kaneo v2.49.0, official image `ghcr.io/usekaneo/kaneo:2.49.0`, pinned by digest in the `Dockerfile`.
